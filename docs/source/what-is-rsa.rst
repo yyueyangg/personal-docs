@@ -46,8 +46,16 @@ The security of RSA is based on the mathematical difficulty of factoring the pro
 While it is easy to multiply large primes together, it is computationally infeasible to factorize the resulting large number, 
 making the system secure.
 
-RSA usually comprises of 3 main parts:
+RSA usually comprises of 3 main parts, Key Gen, Enc, and Dec. The image below is generated from ChatGPT:
+
 .. image:: _static/rsa.png
    :alt: Image for RSA
 
+Conclusion
+---------------------
+Now that you know how RSA works and the fact that RSA is widely-used, would you be worried if I let you know that 
+quantum computers have the potential to break RSA encryption? Now imagine a world without secure communication - your personal accounts 
+could be easily accessed by anyone. That's is game over. 
+
+Stay tuned tuned for more updates on how a quantum attacker can exploit RSA, making RSA in the post-quantum future.
 
