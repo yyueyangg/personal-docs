@@ -5,22 +5,35 @@
 
 Yue Yang's documentation
 ====================================
+i guess u have found this link if i didnt send it to u, flag: yyueyanggg{c0ngr4t5_y0u_h4v3_f0und_m3_224806}
+
 Hii guys, this is where I keep a record / documentation of what I am doing.... so hope u guys wld enjoy exploring !
-I am studying at NTU and i am interested in exploring these few areas:
+I am a year 1 student at NTU and i am interested in exploring these few areas:
 
-1. cybersecurity
+1. Cybersecurity
 
-2. software development / coding 
+2. Software Development / Coding 
 
-3. crypto, forensics and ctfs! (though im not very good at it ;/)
+3. Crypto, Forensics and CTFs! (though im not very good at it ;/)
 
-4. post-quantum
+4. Post-Quantum Cybersecurity
 
 
-You can find out more here:
----------------------------
+You can find out more about me here!
+-------------------------------------
 .. toctree::
    :maxdepth: 2
    :caption: Contents:
 
    internship-experience.rst
+   ctf-experience.rst
+   game-dev-experience.rst 
+   post-quantum-research.rst
+
+
+You can also find me at:
+---------------------------
+- `My LinkedIn Profile <https://www.linkedin.com/in/yue-yang-cher-245314281/overlay/about-this-profile/>`__
+
+- `My GitHub <https://github.com/yyueyangg>`__
+
