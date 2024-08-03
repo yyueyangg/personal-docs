@@ -57,8 +57,8 @@ RSA usually comprises of 3 main parts, Key Gen, Enc, and Dec. The image below is
 Conclusion
 ---------------------
 Now that you know how RSA works and the fact that RSA is widely-used, would you be worried if I let you know that 
-quantum computers have the potential to break RSA encryption? Now imagine a world without secure communication - your personal accounts 
+quantum computers have the potential to break RSA encryption? Now imagine a world without secure communication - your personal details 
 could be easily accessed by anyone. That's is game over. 
 
-Stay tuned tuned for more updates on how a quantum attacker can exploit RSA, making RSA in the post-quantum future.
+Stay tuned for more updates on how a quantum attacker can exploit RSA, making RSA vulnerable in the post-quantum future.
 
