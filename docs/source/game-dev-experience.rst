@@ -12,7 +12,7 @@ And this is also why I am not the most perfect game developers who use C# or Uni
 Environment Setup:
 You will have to install the latest version Pygame, Tkinter, NumPy, random, math, sys. 
 
-Pygame is not available on MacOS. If you are developing on MacOS, you will need a VM or a Boot Camp Assistant.
+Pygame is not available on MacOS. If you are developing on MacOS, you will need a VM or a Boot Camp Assistant for Windows.
 
 - `2048 <https://github.com/yyueyangg/2048>`__
 
