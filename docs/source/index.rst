@@ -29,6 +29,7 @@ You can find out more about me here!
    ctf-experience.rst
    game-dev-experience.rst 
    post-quantum-research.rst
+   books-i-read.rst
 
 
 You can also find me at:

@@ -3,7 +3,7 @@
 ==============================
 2. CTFs Experience
 ==============================
-Stumbled upon CTFs and fell in love with them. Credits to my friend MagicTurtle for introducing me to CTFs! I enjoy the process of tearing things down and digging things out. Ultimately 
+Stumbled upon CTFs and fell in love with them. Credits to my friend sr for introducing me to CTFs! I enjoy the process of tearing things down and digging things out. Ultimately 
 just to find a flag. Am I silly? nope i disagree, this is my hobby. 
 
 CTF comps I have participated in:

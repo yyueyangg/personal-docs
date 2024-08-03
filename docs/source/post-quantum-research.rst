@@ -1,3 +1,5 @@
+.. __post-quantum-research:
+
 ===============================
 4. Post-Quantum Research
 ===============================
