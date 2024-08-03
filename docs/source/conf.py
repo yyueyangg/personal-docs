@@ -6,7 +6,7 @@
 # -- Project information -----------------------------------------------------
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
-project = 'Yue Yang\'s'
+project = 'Yue Yang\'s Playground'
 copyright = '2024, Yue Yang'
 author = 'Yue Yang'
 
@@ -14,6 +14,8 @@ author = 'Yue Yang'
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#general-configuration
 
 extensions = []
+
+html_title = "Yue Yang's Playground"
 
 templates_path = ['_templates']
 exclude_patterns = []
