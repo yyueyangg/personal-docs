@@ -7,8 +7,8 @@ Yue Yang's documentation
 ====================================
 i guess u have found this link if i didnt send it to u, flag: yyueyanggg{c0ngr4t5_y0u_h4v3_f0und_m3_224806}
 
-Hii guys, this is where I keep a record / documentation of what I am doing.... so hope u guys wld enjoy exploring !
-I am a year 1 student at NTU and i am interested in exploring these few areas:
+Hii guys, this is where I keep a record / documentation of what I am doing outside of school.... so hope u guys wld enjoy exploring !
+I am a student at NTU and i am interested in exploring these few areas:
 
 1. Cybersecurity
 
@@ -29,7 +29,7 @@ You can find out more about me here!
    ctf-experience.rst
    game-dev-experience.rst 
    post-quantum-research.rst
-   books-i-read.rst
+   books.rst
 
 
 You can also find me at:

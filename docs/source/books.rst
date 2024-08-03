@@ -1,10 +1,10 @@
-.. __books-i-read:
+.. __books:
 
 ======================
-5. Books I Have Read
+5. Books
 ======================
 This is where I keep track of some of the books I am reading or have read, might have forgotten some though.....
-
+Hope I can read more to gain more knowledge.... still working in progress....
 
 Books I read for slightly more intermediate coding:
 
