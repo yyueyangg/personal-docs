@@ -1,4 +1,4 @@
 sphinx>=7
 sphinx-autobuild
 sphinx-copybutton
-furo
+pydata_sphinx_theme
