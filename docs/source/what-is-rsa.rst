@@ -1,7 +1,7 @@
 .. __what-is-rsa:
 
 =====================
-Introduction
+What Is RSA?
 =====================
 RSA is an asymmetric cryptographic algorithm, asymmetric meaning it uses two different keys: a public key for encryption and 
 a private key for decryption - this differs from symmetric cryptography, which uses the same key for both encryption and decryption.
