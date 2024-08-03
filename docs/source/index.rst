@@ -7,7 +7,7 @@ Yue Yang's documentation
 ====================================
 i guess u have found this link if i didnt send it to u, flag: yyueyanggg{c0ngr4t5_y0u_h4v3_f0und_m3_224806}
 
-Hii guys, this is where I keep a record / documentation of what I am doing outside of school.... so hope u guys wld enjoy exploring !
+Hii guys, this is where I keep an informal record / documentation of what I am doing outside of school.... so hope u guys wld enjoy exploring !
 I am a student at NTU and i am interested in exploring these few areas:
 
 1. Cybersecurity
@@ -38,3 +38,4 @@ You can also find me at:
 
 - `My GitHub <https://github.com/yyueyangg>`__
 
+Feel free to contact me for any projects. Preferred mode of contact would be to dm me on my LinkedIn. Thank you!
