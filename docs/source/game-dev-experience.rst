@@ -5,7 +5,7 @@
 ===============================
 This are just some games I coded using Python Pygame and Tkinter. I learnt Python through self-learning. So, I learnt to create
 these games to try and apply what I have learnt. Also, these games are not built from scratch, I learnt them from other people's code
-and writeups, but modified them to add in my own elements. So please do credit them too!
+and writeups, but modified them to add in my own elements. So credits to the creators too!
 
 And this is also why I am not the most perfect game developers who use C# or Unity. But well, Im doing my best!
 
