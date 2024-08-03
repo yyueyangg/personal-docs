@@ -3,6 +3,9 @@
 =====================
 What Is RSA?
 =====================
+
+Introduction
+-----------------
 RSA is an asymmetric cryptographic algorithm, asymmetric meaning it uses two different keys: a public key for encryption and 
 a private key for decryption - this differs from symmetric cryptography, which uses the same key for both encryption and decryption.
 Named after its inventors Ron Rivest, Adi Shamir, and Leonard Adleman, RSA is a foundational technology in the field of cryptography.
