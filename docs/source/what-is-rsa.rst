@@ -1,7 +1,7 @@
 .. __what-is-rsa:
 
 =====================
-What Is RSA?
+What is RSA?
 =====================
 
 Introduction
@@ -43,8 +43,8 @@ Uses RSA for secure online banking transactions and communications.
 
 Uses RSA in securing email communications via Gmail and in the HTTPS protocol for secure browsing.
 
-Explain the Math behind RSA
----------------------------
+Explaining the Math behind RSA
+-------------------------------
 The security of RSA is based on the mathematical difficulty of factoring the product of two large prime numbers. 
 While it is easy to multiply large primes together, it is computationally infeasible to factorize the resulting large number, 
 making the system secure.
