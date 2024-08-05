@@ -54,6 +54,12 @@ So, is RSA vulnerable now?
 The whole "quantum computers may break RSA encryption" is under the assumption that the number of qubits required by the quantum computer 
 to perform the factorisation is sufficient to break RSA's encryption. 
 
+As far as my research goes, currently, IBM has developed one of the advanced quantum processors with over 400 qubits. Their 433-qubit processor, 
+named "Osprey," was announced in 2022, and they have plans for even larger processors.
+
+Meanwhile, to break RSA encryption, the number of qubits required would differ according to the size of the RSA private key, in terms of bits.
+To break a 2048-bit RSA private key, the approximate number of qubits required would be in the thousands, which currently may not be feasible now.
+
 
 Then when will RSA become vulnerable?
 ---------------------------------------
