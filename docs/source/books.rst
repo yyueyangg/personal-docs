@@ -30,7 +30,7 @@ Books I read to self-learn basic Tech:
 
 - Tableau.... something something, i actl forgot the title....
 
-Others:
+Other books:
 
 - Crucial Conversations: Tools for Talking When Stakes Are High, Second Edition
 
