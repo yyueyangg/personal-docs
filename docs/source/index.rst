@@ -38,4 +38,4 @@ You can also find me at:
 
 - `My GitHub <https://github.com/yyueyangg>`__
 
-Feel free to contact me for any projects. Preferred mode of contact would be to dm me on my LinkedIn. Thank you!
+Feel free to contact me for any projects. Preferred mode of contact would be to DM me on my LinkedIn. Thank you!
